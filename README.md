@@ -2,8 +2,6 @@
 
 [Sliding Puzzle](http://en.wikipedia.org/wiki/Sliding_puzzle) desktop game implemented in C++ using [SFML](http://www.sfml-dev.org/).
 
-![](https://raw.githubusercontent.com/pkoper/sliding-puzzle/master/doc/images/screenshot.png)
-
 Features:
  1. Sliding tiles using mouse or keyboard arrows.
  2. Shuffling tiles `[Space]` or `[R]`.
@@ -12,5 +10,5 @@ Features:
  5. Changing image `[I]`.
  6. Fullscreen `[F]` or `[F11]`.
 
-
+![](https://raw.githubusercontent.com/pkoper/sliding-puzzle/master/doc/images/screenshot.png)
 
