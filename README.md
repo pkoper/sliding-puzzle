@@ -4,11 +4,11 @@
 
 ### Features
  1. Sliding tiles using mouse or keyboard arrows.
- 2. Shuffling tiles [Space] or [R].
- 3. Solving puzzle [S] using [IDA*](http://en.wikipedia.org/wiki/IDA*) or playback (as a failback).
- 4. Changing matrix size [J] / [K].
- 5. Changing image [I].
- 6. Fullscreen [F] or [F11].
+ 2. Shuffling tiles <kbd>Space</kbd> or <kbd>R</kbd>.
+ 3. Solving puzzle <kbd>S</kbd> using [IDA*](http://en.wikipedia.org/wiki/IDA*) or playback (as a failback).
+ 4. Changing matrix size <kbd>J</kbd> / <kbd>K</kbd>.
+ 5. Changing image <kbd>I</kbd>.
+ 6. Fullscreen <kbd>F</kbd> or <kbd>F11</kbd>.
 
 ### Screenshot
 ![](https://raw.githubusercontent.com/pkoper/sliding-puzzle/master/doc/images/screenshot.png)
