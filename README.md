@@ -13,6 +13,10 @@
 ### Screenshot
 ![](https://raw.githubusercontent.com/pkoper/sliding-puzzle/master/doc/images/screenshot.png)
 
+## Running
+Simply run `SlidingPuzzle.exe` from a directory containing `data` directory.
+`SlidingPuzzle.exe` was compiled under Windows 7 using MinGW toolchain from Code::Blocks.
+
 ## Compiling
 Download and unpack [SFML 2.2](http://www.sfml-dev.org/) library. Project files for [Code::Blocks](http://www.codeblocks.org/) and [JetBrains CLion](https://www.jetbrains.com/clion/) are included.
 
