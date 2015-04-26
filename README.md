@@ -27,10 +27,10 @@ To remove any runtime dependency you can statically link SFML (see examples belo
 #### GUI Application
 In the link step add a "-mwindows" switch to the command line to remove DOS command window or set the Type to GUI application.
 
-![](https://raw.githubusercontent.com/pkoper/sliding-puzzle/master/doc/images/codeblocks-target.png)
+![](https://raw.githubusercontent.com/pkoper/sliding-puzzle/master/doc/images/codeblocks-targets.png)
 
 ### JetBrains CLion
-Update the SFML_ROOT in `CMakeLists.txt` file, eg:
+Update the `SFML_ROOT` path in `CMakeLists.txt` file, eg:
 
 ```
 set(SFML_ROOT "/Libraries/SFML-2.2")
