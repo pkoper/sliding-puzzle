@@ -3,7 +3,7 @@
 [Sliding Puzzle](http://en.wikipedia.org/wiki/Sliding_puzzle) desktop game implemented in C++ using [SFML](http://www.sfml-dev.org/).
 
 ### Features
- 1. Sliding tiles using mouse or keyboard arrows.
+ 1. Sliding tiles using mouse or <kbd>&larr;</kbd><kbd>&uarr;</kbd><kbd>&darr;</kbd><kbd>&rarr;</kbd>.
  2. Shuffling tiles <kbd>Space</kbd> or <kbd>R</kbd>.
  3. Solving puzzle <kbd>S</kbd> using [IDA*](http://en.wikipedia.org/wiki/IDA*) or playback (as a failback).
  4. Changing matrix size <kbd>J</kbd> / <kbd>K</kbd>.
