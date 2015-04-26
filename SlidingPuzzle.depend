@@ -1,0 +1,276 @@
+# depslib dependency file v1.0
+1428321524 source:c:\projects\codeblocks\slidingpuzzle\src\main.cc
+	"sliding_puzzle/sliding_puzzle.h"
+
+1428196359 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle.h
+	"sliding_puzzle/randomizer/min_distance.h"
+	"sliding_puzzle/solver/idastar.h"
+	"sliding_puzzle/solver/playback.h"
+	"sliding_puzzle/sliding_puzzle.h"
+
+1428350123 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\app.h
+	<SFML/Graphics.hpp>
+	<memory>
+	<deque>
+	"sliding_puzzle/window.h"
+	"sliding_puzzle/component.h"
+	"sliding_puzzle/coordinate_converter.h"
+
+1428401307 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\sliding_puzzle.h
+	<algorithm>
+	<limits>
+	<utility>
+	<string>
+	<vector>
+	"sliding_puzzle/app.h"
+	"sliding_puzzle/coordinate_converter.h"
+	"sliding_puzzle/component/exit_listener.h"
+	"sliding_puzzle/component/fullscreen_listener.h"
+	"sliding_puzzle/component/image.h"
+	"sliding_puzzle/component/square_image.h"
+	"sliding_puzzle/component/matrix.h"
+	"sliding_puzzle/component/game.h"
+	"sliding_puzzle/component/shuffleable_game.h"
+	"sliding_puzzle/component/solvable_game.h"
+	"sliding_puzzle/randomizer.h"
+	"sliding_puzzle/randomizer/min_distance.h"
+	"sliding_puzzle/solver.h"
+	"sliding_puzzle/solver/idastar.h"
+	"sliding_puzzle/solver/playback.h"
+
+1428350276 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\window.h
+	<algorithm>
+
+1428350238 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\component.h
+	"sliding_puzzle/window.h"
+	"sliding_puzzle/unused.h"
+
+1428347288 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\component\exit_listener.h
+	"sliding_puzzle/component.h"
+
+1428347312 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\component\fullscreen_listener.h
+	"sliding_puzzle/component.h"
+
+1428393709 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\component\matrix.h
+	<vector>
+	"sliding_puzzle/component/square_image.h"
+
+1428347026 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\component\image.h
+	<exception>
+	<vector>
+	"sliding_puzzle/component.h"
+
+1428347488 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\component\square_image.h
+	<vector>
+	"sliding_puzzle/component/image.h"
+
+1428350182 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\component\game.h
+	<vector>
+	"sliding_puzzle/component/matrix.h"
+	"sliding_puzzle/coordinate_converter.h"
+	"sliding_puzzle/state.h"
+
+1428196290 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\coordinate_converter.h
+	<SFML/Graphics.hpp>
+
+1428420483 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\component\solvable_game.h
+	<algorithm>
+	<deque>
+	<utility>
+	<vector>
+	"sliding_puzzle/component/shuffleable_game.h"
+	"sliding_puzzle/solver.h"
+
+1428346399 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\solver.h
+	<vector>
+	"sliding_puzzle/move.h"
+	"sliding_puzzle/state.h"
+
+1428401080 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\solver\idastar.h
+	<SFML/System/Clock.hpp>
+	<vector>
+	"sliding_puzzle/solver.h"
+	"sliding_puzzle/unused.h"
+
+1427926311 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\distance\manhattan.h
+
+1428347531 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\component\shuffleable_game.h
+	<utility>
+	<vector>
+	"sliding_puzzle/randomizer.h"
+	"sliding_puzzle/component/game.h"
+
+1428054059 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\game.h
+
+1428400890 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\state.h
+	<algorithm>
+	<vector>
+	"sliding_puzzle/move.h"
+
+1428054873 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\game\state.h
+	"sliding_puzzle/game/move.h"
+
+1428054979 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\game\move.h
+
+1428243506 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\move.h
+	<algorithm>
+	<chrono>
+	<functional>
+	<random>
+	<vector>
+
+1428069739 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\shuffleable_state.h
+	"sliding_puzzle/state.h"
+
+1428069871 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\metric\manhattan.h
+	"sliding_puzzle/metric.h"
+
+1428068916 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\metric.h
+
+1428346417 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\randomizer.h
+	<vector>
+	"sliding_puzzle/state.h"
+
+1428400911 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\randomizer\min_distance.h
+	<vector>
+	"sliding_puzzle/randomizer.h"
+
+1428420135 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\solver\playback.h
+	<SFML/System/Time.hpp>
+	<utility>
+	<vector>
+	"sliding_puzzle/pair.h"
+
+1428243485 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\pair.h
+	<algorithm>
+	<utility>
+	<vector>
+
+1428317604 c:\projects\codeblocks\slidingpuzzle\include\sliding_puzzle\unused.h
+
+1428321524 source:c:\projects\slidingpuzzle\src\main.cc
+	"sliding_puzzle/sliding_puzzle.h"
+
+1428401307 c:\projects\slidingpuzzle\include\sliding_puzzle\sliding_puzzle.h
+	<algorithm>
+	<limits>
+	<utility>
+	<string>
+	<vector>
+	"sliding_puzzle/app.h"
+	"sliding_puzzle/coordinate_converter.h"
+	"sliding_puzzle/component/exit_listener.h"
+	"sliding_puzzle/component/fullscreen_listener.h"
+	"sliding_puzzle/component/image.h"
+	"sliding_puzzle/component/square_image.h"
+	"sliding_puzzle/component/matrix.h"
+	"sliding_puzzle/component/game.h"
+	"sliding_puzzle/component/shuffleable_game.h"
+	"sliding_puzzle/component/solvable_game.h"
+	"sliding_puzzle/randomizer.h"
+	"sliding_puzzle/randomizer/min_distance.h"
+	"sliding_puzzle/solver.h"
+	"sliding_puzzle/solver/idastar.h"
+	"sliding_puzzle/solver/playback.h"
+
+1428350123 c:\projects\slidingpuzzle\include\sliding_puzzle\app.h
+	<SFML/Graphics.hpp>
+	<memory>
+	<deque>
+	"sliding_puzzle/window.h"
+	"sliding_puzzle/component.h"
+	"sliding_puzzle/coordinate_converter.h"
+
+1428350276 c:\projects\slidingpuzzle\include\sliding_puzzle\window.h
+	<algorithm>
+
+1428350238 c:\projects\slidingpuzzle\include\sliding_puzzle\component.h
+	"sliding_puzzle/window.h"
+	"sliding_puzzle/unused.h"
+
+1428317604 c:\projects\slidingpuzzle\include\sliding_puzzle\unused.h
+
+1428196290 c:\projects\slidingpuzzle\include\sliding_puzzle\coordinate_converter.h
+	<SFML/Graphics.hpp>
+
+1428347288 c:\projects\slidingpuzzle\include\sliding_puzzle\component\exit_listener.h
+	"sliding_puzzle/component.h"
+
+1428347312 c:\projects\slidingpuzzle\include\sliding_puzzle\component\fullscreen_listener.h
+	"sliding_puzzle/component.h"
+
+1428347026 c:\projects\slidingpuzzle\include\sliding_puzzle\component\image.h
+	<exception>
+	<vector>
+	"sliding_puzzle/component.h"
+
+1428347488 c:\projects\slidingpuzzle\include\sliding_puzzle\component\square_image.h
+	<vector>
+	"sliding_puzzle/component/image.h"
+
+1428393709 c:\projects\slidingpuzzle\include\sliding_puzzle\component\matrix.h
+	<vector>
+	"sliding_puzzle/component/square_image.h"
+
+1428350182 c:\projects\slidingpuzzle\include\sliding_puzzle\component\game.h
+	<vector>
+	"sliding_puzzle/component/matrix.h"
+	"sliding_puzzle/coordinate_converter.h"
+	"sliding_puzzle/state.h"
+
+1428400890 c:\projects\slidingpuzzle\include\sliding_puzzle\state.h
+	<algorithm>
+	<vector>
+	"sliding_puzzle/move.h"
+
+1428243506 c:\projects\slidingpuzzle\include\sliding_puzzle\move.h
+	<algorithm>
+	<chrono>
+	<functional>
+	<random>
+	<vector>
+
+1428347531 c:\projects\slidingpuzzle\include\sliding_puzzle\component\shuffleable_game.h
+	<utility>
+	<vector>
+	"sliding_puzzle/randomizer.h"
+	"sliding_puzzle/component/game.h"
+
+1428346417 c:\projects\slidingpuzzle\include\sliding_puzzle\randomizer.h
+	<vector>
+	"sliding_puzzle/state.h"
+
+1428420483 c:\projects\slidingpuzzle\include\sliding_puzzle\component\solvable_game.h
+	<algorithm>
+	<deque>
+	<utility>
+	<vector>
+	"sliding_puzzle/component/shuffleable_game.h"
+	"sliding_puzzle/solver.h"
+
+1428346399 c:\projects\slidingpuzzle\include\sliding_puzzle\solver.h
+	<vector>
+	"sliding_puzzle/move.h"
+	"sliding_puzzle/state.h"
+
+1428400911 c:\projects\slidingpuzzle\include\sliding_puzzle\randomizer\min_distance.h
+	<vector>
+	"sliding_puzzle/randomizer.h"
+
+1428401080 c:\projects\slidingpuzzle\include\sliding_puzzle\solver\idastar.h
+	<SFML/System/Clock.hpp>
+	<vector>
+	"sliding_puzzle/solver.h"
+	"sliding_puzzle/unused.h"
+
+1428420135 c:\projects\slidingpuzzle\include\sliding_puzzle\solver\playback.h
+	<SFML/System/Time.hpp>
+	<utility>
+	<vector>
+	"sliding_puzzle/pair.h"
+
+1428243485 c:\projects\slidingpuzzle\include\sliding_puzzle\pair.h
+	<algorithm>
+	<utility>
+	<vector>
+

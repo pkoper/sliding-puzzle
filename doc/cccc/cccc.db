@@ -1,0 +1,463 @@
+CCCC_Module@App@class@
+CCCC_ModExt@App@class@include\sliding_puzzle\app.h@15@definition@F??T0@LOC:10 COM:0 MVG:4@0@d@
+CCCC_Module@Component@class@
+CCCC_ModExt@Component@class@include\sliding_puzzle\component.h@9@definition@F??T?@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Module@Config@@
+CCCC_Module@CoordinateConverter@class@
+CCCC_ModExt@CoordinateConverter@class@include\sliding_puzzle\coordinate_converter.h@8@definition@F??T2@LOC:3 COM:0 MVG:0@2@d@
+CCCC_Module@Creator@class@
+CCCC_ModExt@Creator@class@include\sliding_puzzle\sliding_puzzle.h@52@definition@F???2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Module@Event@@
+CCCC_Module@EventHandler@class@
+CCCC_ModExt@EventHandler@class@include\sliding_puzzle\window.h@10@definition@F??T2@LOC:3 COM:0 MVG:0@2@d@
+CCCC_Module@ExitHandler@class@
+CCCC_ModExt@ExitHandler@class@include\sliding_puzzle\component\exit_listener.h@11@definition@F??T2@LOC:3 COM:0 MVG:0@2@d@
+CCCC_Module@ExitListener@class@
+CCCC_ModExt@ExitListener@class@include\sliding_puzzle\component\exit_listener.h@9@definition@F??T0@LOC:14 COM:0 MVG:5@0@d@
+CCCC_Module@FullscreenHandler@class@
+CCCC_ModExt@FullscreenHandler@class@include\sliding_puzzle\component\fullscreen_listener.h@11@definition@F??T2@LOC:3 COM:0 MVG:0@2@d@
+CCCC_Module@FullscreenListener@class@
+CCCC_ModExt@FullscreenListener@class@include\sliding_puzzle\component\fullscreen_listener.h@9@definition@F??T0@LOC:14 COM:0 MVG:5@0@d@
+CCCC_Module@Game@class@
+CCCC_ModExt@Game@class@include\sliding_puzzle\component\game.h@13@definition@F???0@LOC:13 COM:0 MVG:2@0@d@
+CCCC_Module@IDAStar@class@
+CCCC_ModExt@IDAStar@class@include\sliding_puzzle\solver\idastar.h@14@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_Module@Image@class@
+CCCC_ModExt@Image@class@include\sliding_puzzle\component\image.h@12@definition@F???0@LOC:10 COM:0 MVG:2@0@d@
+CCCC_Module@LoadException@class@
+CCCC_ModExt@LoadException@class@include\sliding_puzzle\component\image.h@14@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@Matrix@class@
+CCCC_ModExt@Matrix@class@include\sliding_puzzle\component\matrix.h@11@definition@F???0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_Module@MinDistance@class@
+CCCC_ModExt@MinDistance@class@include\sliding_puzzle\randomizer\min_distance.h@12@definition@F???0@LOC:17 COM:0 MVG:5@0@d@
+CCCC_Module@Move@class@
+CCCC_ModExt@Move@class@include\sliding_puzzle\move.h@12@definition@????2@LOC:7 COM:0 MVG:0@2@d@
+CCCC_Module@Node@struct@
+CCCC_ModExt@Node@struct@include\sliding_puzzle\solver\idastar.h@16@definition@????0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Module@Playback@class@
+CCCC_ModExt@Playback@class@include\sliding_puzzle\solver\playback.h@14@definition@F???0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_Module@Randomizer@class@
+CCCC_ModExt@Randomizer@class@include\sliding_puzzle\randomizer.h@10@definition@F??T2@LOC:3 COM:0 MVG:0@2@d@
+CCCC_Module@RenderWindow@@
+CCCC_Module@Renderable@class@
+CCCC_ModExt@Renderable@class@include\sliding_puzzle\window.h@15@definition@F??T2@LOC:3 COM:0 MVG:0@2@d@
+CCCC_Module@ShuffleableGame@class@
+CCCC_ModExt@ShuffleableGame@class@include\sliding_puzzle\component\shuffleable_game.h@13@definition@F???0@LOC:13 COM:0 MVG:2@0@d@
+CCCC_Module@SlidingPuzzle@class@
+CCCC_ModExt@SlidingPuzzle@class@include\sliding_puzzle\sliding_puzzle.h@32@definition@?????@LOC:19 COM:0 MVG:0@?@d@
+CCCC_Module@Slot@class@
+CCCC_ModExt@Slot@class@include\sliding_puzzle\component\matrix.h@29@definition@T???2@LOC:7 COM:0 MVG:0@2@d@
+CCCC_Module@SolvableGame@class@
+CCCC_ModExt@SolvableGame@class@include\sliding_puzzle\component\solvable_game.h@15@definition@F???0@LOC:10 COM:0 MVG:2@0@d@
+CCCC_Module@Solver@class@
+CCCC_ModExt@Solver@class@include\sliding_puzzle\solver.h@11@definition@F??T2@LOC:3 COM:0 MVG:0@2@d@
+CCCC_Module@Sprite@@
+CCCC_Module@SquareImage@class@
+CCCC_ModExt@SquareImage@class@include\sliding_puzzle\component\square_image.h@11@definition@F???0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_Module@State@class@
+CCCC_ModExt@State@class@include\sliding_puzzle\state.h@11@definition@F???2@LOC:7 COM:0 MVG:1@2@d@
+CCCC_Module@String@@
+CCCC_Module@Texture@@
+CCCC_Module@Tile@class@
+CCCC_ModExt@Tile@class@include\sliding_puzzle\component\matrix.h@13@definition@F????@LOC:6 COM:0 MVG:0@?@d@
+CCCC_Module@Uint32@@
+CCCC_Module@Vector2f@@
+CCCC_Module@Vector2i@@
+CCCC_Module@Vector2u@@
+CCCC_Module@View@@
+CCCC_Module@Window@class@
+CCCC_ModExt@Window@class@include\sliding_puzzle\window.h@8@definition@FT?T2@LOC:12 COM:0 MVG:0@2@d@
+CCCC_Module@anonymous@@
+CCCC_Module@bool@@
+CCCC_Module@char@builtin@
+CCCC_ModExt@char@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@double@builtin@
+CCCC_ModExt@double@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@event@@
+CCCC_Module@exception@@
+CCCC_Module@float@builtin@
+CCCC_ModExt@float@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@int@builtin@
+CCCC_ModExt@int@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@long@builtin@
+CCCC_ModExt@long@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@unique_ptr@@
+CCCC_Module@vector@@
+CCCC_Module@void@builtin@
+CCCC_ModExt@void@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Member@App@App@@()@
+CCCC_MemExt@App@App@@()@include\sliding_puzzle\app.h@18@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@App@init@@()@
+CCCC_MemExt@App@init@@()@include\sliding_puzzle\app.h@29@definition@F??T0@LOC:5 COM:0 MVG:1@0@d@
+CCCC_Member@App@layout@@()@
+CCCC_MemExt@App@layout@@()@include\sliding_puzzle\app.h@35@definition@F??T0@LOC:6 COM:0 MVG:1@0@d@
+CCCC_Member@App@run@@()@
+CCCC_MemExt@App@run@@()@include\sliding_puzzle\app.h@20@definition@F??T0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_Member@Component@Component@@()@
+CCCC_MemExt@Component@Component@@()@include\sliding_puzzle\component.h@11@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Component@Component@@(bool)@
+CCCC_MemExt@Component@Component@@(bool)@include\sliding_puzzle\component.h@12@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Component@handleEvent@@(const Event &)@
+CCCC_MemExt@Component@handleEvent@@(const Event &)@include\sliding_puzzle\component.h@14@definition@F??T?@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Component@init@@()@
+CCCC_MemExt@Component@init@@()@include\sliding_puzzle\component.h@13@definition@F??T0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Component@isVisible@@()@
+CCCC_MemExt@Component@isVisible@@()@include\sliding_puzzle\component.h@24@definition@F??T?@LOC:1 COM:0 MVG:1@?@d@
+CCCC_Member@Component@layout@@(const Vector2u &)@
+CCCC_MemExt@Component@layout@@(const Vector2u &)@include\sliding_puzzle\component.h@18@definition@F??T?@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Component@render@@(RenderWindow *)@
+CCCC_MemExt@Component@render@@(RenderWindow *)@include\sliding_puzzle\component.h@21@definition@F??T?@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Component@setVisible@@(bool)@
+CCCC_MemExt@Component@setVisible@@(bool)@include\sliding_puzzle\component.h@25@definition@F??T?@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Member@Component@~Component@@()@
+CCCC_MemExt@Component@~Component@@()@include\sliding_puzzle\component.h@26@definition@F??T?@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Member@CoordinateConverter@mapPixelToCoords@@(const Vector2i &,const View &)@
+CCCC_MemExt@CoordinateConverter@mapPixelToCoords@@(const Vector2i &,const View &)@include\sliding_puzzle\coordinate_converter.h@10@declaration@F??T?@LOC:2 COM:0 MVG:0@?@D@
+CCCC_Member@Creator@addImage@@(const String &)@
+CCCC_MemExt@Creator@addImage@@(const String &)@include\sliding_puzzle\sliding_puzzle.h@90@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@addRandomizerWithLimit@@(unique_ptr,int)@
+CCCC_MemExt@Creator@addRandomizerWithLimit@@(unique_ptr,int)@include\sliding_puzzle\sliding_puzzle.h@94@definition@F????@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@addSolver@@(unique_ptr)@
+CCCC_MemExt@Creator@addSolver@@(unique_ptr)@include\sliding_puzzle\sliding_puzzle.h@104@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@addSolverWithTimeout@@(unique_ptr,int)@
+CCCC_MemExt@Creator@addSolverWithTimeout@@(unique_ptr,int)@include\sliding_puzzle\sliding_puzzle.h@99@definition@F????@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@create@@()@
+CCCC_MemExt@Creator@create@@()@include\sliding_puzzle\sliding_puzzle.h@108@definition@F????@LOC:3 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@setAnimationSpeed@@(int)@
+CCCC_MemExt@Creator@setAnimationSpeed@@(int)@include\sliding_puzzle\sliding_puzzle.h@86@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@setFullscreen@@(bool)@
+CCCC_MemExt@Creator@setFullscreen@@(bool)@include\sliding_puzzle\sliding_puzzle.h@70@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@setSize@@(int)@
+CCCC_MemExt@Creator@setSize@@(int)@include\sliding_puzzle\sliding_puzzle.h@58@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@setSizeMax@@(int)@
+CCCC_MemExt@Creator@setSizeMax@@(int)@include\sliding_puzzle\sliding_puzzle.h@66@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@setSizeMin@@(int)@
+CCCC_MemExt@Creator@setSizeMin@@(int)@include\sliding_puzzle\sliding_puzzle.h@62@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@setTileMargin@@(double)@
+CCCC_MemExt@Creator@setTileMargin@@(double)@include\sliding_puzzle\sliding_puzzle.h@82@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@setTitle@@(String)@
+CCCC_MemExt@Creator@setTitle@@(String)@include\sliding_puzzle\sliding_puzzle.h@54@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@setWindowMargin@@(double)@
+CCCC_MemExt@Creator@setWindowMargin@@(double)@include\sliding_puzzle\sliding_puzzle.h@78@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Creator@setWindowRatio@@(double)@
+CCCC_MemExt@Creator@setWindowRatio@@(double)@include\sliding_puzzle\sliding_puzzle.h@74@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@EventHandler@handleEvent@@(const Event &)@
+CCCC_MemExt@EventHandler@handleEvent@@(const Event &)@include\sliding_puzzle\window.h@12@declaration@F??T?@LOC:1 COM:0 MVG:0@?@D@
+CCCC_Member@ExitHandler@handleExit@@()@
+CCCC_MemExt@ExitHandler@handleExit@@()@include\sliding_puzzle\component\exit_listener.h@13@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@ExitListener@ExitListener@@(ExitHandler *)@
+CCCC_MemExt@ExitListener@ExitListener@@(ExitHandler *)@include\sliding_puzzle\component\exit_listener.h@16@definition@F??T2@LOC:2 COM:0 MVG:0@2@d@
+CCCC_Member@FullscreenHandler@handleFullscreen@@()@
+CCCC_MemExt@FullscreenHandler@handleFullscreen@@()@include\sliding_puzzle\component\fullscreen_listener.h@13@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@FullscreenListener@FullscreenListener@@(FullscreenHandler *)@
+CCCC_MemExt@FullscreenListener@FullscreenListener@@(FullscreenHandler *)@include\sliding_puzzle\component\fullscreen_listener.h@16@definition@F??T2@LOC:2 COM:0 MVG:0@2@d@
+CCCC_Member@Game@Game@@(const vector &,double,double,int,int,int,int,CoordinateConverter *)@
+CCCC_MemExt@Game@Game@@(const vector &,double,double,int,int,int,int,CoordinateConverter *)@include\sliding_puzzle\component\game.h@15@definition@F????@LOC:6 COM:0 MVG:0@?@d@
+CCCC_Member@Image@Image@@(const vector &,double)@
+CCCC_MemExt@Image@Image@@(const vector &,double)@include\sliding_puzzle\component\image.h@16@definition@F????@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Member@Matrix@Matrix@@(const vector &,double,double,int,int,int)@
+CCCC_MemExt@Matrix@Matrix@@(const vector &,double,double,int,int,int)@include\sliding_puzzle\component\matrix.h@48@definition@F????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@Randomizer@shuffle@@(const State &,int)@
+CCCC_MemExt@Randomizer@shuffle@@(const State &,int)@include\sliding_puzzle\randomizer.h@12@declaration@F??T?@LOC:1 COM:0 MVG:0@?@D@
+CCCC_Member@Renderable@render@@(RenderWindow *)@
+CCCC_MemExt@Renderable@render@@(RenderWindow *)@include\sliding_puzzle\window.h@17@declaration@F??T?@LOC:1 COM:0 MVG:0@?@D@
+CCCC_Member@ShuffleableGame@ShuffleableGame@@(...)@
+CCCC_MemExt@ShuffleableGame@ShuffleableGame@@(...)@include\sliding_puzzle\component\shuffleable_game.h@15@definition@F???0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_Member@ShuffleableGame@handleEvent@@(event)@
+CCCC_MemExt@ShuffleableGame@handleEvent@@(event)@include\sliding_puzzle\component\solvable_game.h@46@declaration@F????@LOC:1 COM:0 MVG:1@?@D@
+CCCC_Member@Slot@Slot@@()@
+CCCC_MemExt@Slot@Slot@@()@include\sliding_puzzle\component\matrix.h@31@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Slot@Slot@@(int,const Vector2f &,Tile *)@
+CCCC_MemExt@Slot@Slot@@(int,const Vector2f &,Tile *)@include\sliding_puzzle\component\matrix.h@32@definition@F????@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Member@Slot@getId@@()@
+CCCC_MemExt@Slot@getId@@()@include\sliding_puzzle\component\matrix.h@34@definition@T????@LOC:1 COM:0 MVG:1@?@d@
+CCCC_Member@Slot@getPosition@@()@
+CCCC_MemExt@Slot@getPosition@@()@include\sliding_puzzle\component\matrix.h@35@definition@T????@LOC:1 COM:0 MVG:1@?@d@
+CCCC_Member@Slot@getTile@@()@
+CCCC_MemExt@Slot@getTile@@()@include\sliding_puzzle\component\matrix.h@40@definition@T????@LOC:1 COM:0 MVG:1@?@d@
+CCCC_Member@Slot@operator <@@(const Slot &)@
+CCCC_MemExt@Slot@operator <@@(const Slot &)@include\sliding_puzzle\component\matrix.h@41@definition@T????@LOC:1 COM:0 MVG:1@?@d@
+CCCC_Member@Slot@setPosition@@(const Vector2f &)@
+CCCC_MemExt@Slot@setPosition@@(const Vector2f &)@include\sliding_puzzle\component\matrix.h@36@definition@F????@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Slot@setTile@@(Tile *)@
+CCCC_MemExt@Slot@setTile@@(Tile *)@include\sliding_puzzle\component\matrix.h@39@definition@F????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Member@SolvableGame@SolvableGame@@(...)@
+CCCC_MemExt@SolvableGame@SolvableGame@@(...)@include\sliding_puzzle\component\solvable_game.h@17@definition@F???0@LOC:9 COM:0 MVG:0@0@d@
+CCCC_Member@Solver@init@@(const State &)@
+CCCC_MemExt@Solver@init@@(const State &)@include\sliding_puzzle\solver.h@13@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@Solver@record@@(Move)@
+CCCC_MemExt@Solver@record@@(Move)@include\sliding_puzzle\solver.h@14@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@Solver@resolve@@(const State &,int)@
+CCCC_MemExt@Solver@resolve@@(const State &,int)@include\sliding_puzzle\solver.h@15@declaration@F??T?@LOC:1 COM:0 MVG:0@?@D@
+CCCC_Member@SquareImage@SquareImage@@(const vector &,double)@
+CCCC_MemExt@SquareImage@SquareImage@@(const vector &,double)@include\sliding_puzzle\component\square_image.h@13@definition@F????@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Member@State@State@@()@
+CCCC_MemExt@State@State@@()@include\sliding_puzzle\state.h@13@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@State@State@@(const State &)@
+CCCC_MemExt@State@State@@(const State &)@include\sliding_puzzle\state.h@15@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@Tile@Tile@@(int,const Vector2f &,int,const Texture &)@
+CCCC_MemExt@Tile@Tile@@(int,const Vector2f &,int,const Texture &)@include\sliding_puzzle\component\matrix.h@15@definition@F????@LOC:6 COM:0 MVG:0@?@d@
+CCCC_Member@Tile@getId@@()@
+CCCC_MemExt@Tile@getId@@()@include\sliding_puzzle\component\matrix.h@21@definition@T????@LOC:1 COM:0 MVG:1@?@d@
+CCCC_Member@Tile@isVisible@@()@
+CCCC_MemExt@Tile@isVisible@@()@include\sliding_puzzle\component\matrix.h@22@definition@T????@LOC:1 COM:0 MVG:1@?@d@
+CCCC_Member@Tile@setVisible@@(bool)@
+CCCC_MemExt@Tile@setVisible@@(bool)@include\sliding_puzzle\component\matrix.h@23@definition@F????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Member@Window@Window@@()@
+CCCC_MemExt@Window@Window@@()@include\sliding_puzzle\window.h@20@definition@F??T2@LOC:1 COM:0 MVG:0@2@d@
+CCCC_Member@Window@close@@()@
+CCCC_MemExt@Window@close@@()@include\sliding_puzzle\window.h@70@definition@F??T?@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Window@create@@()@
+CCCC_MemExt@Window@create@@()@include\sliding_puzzle\window.h@41@definition@F??T?@LOC:6 COM:0 MVG:1@?@d@
+CCCC_Member@Window@eventLoop@@()@
+CCCC_MemExt@Window@eventLoop@@()@include\sliding_puzzle\window.h@74@definition@F??T?@LOC:21 COM:0 MVG:6@?@d@
+CCCC_Member@Window@getDesktopWindowMode@@()@
+CCCC_MemExt@Window@getDesktopWindowMode@@()@include\sliding_puzzle\window.h@34@definition@T??T?@LOC:6 COM:0 MVG:1@?@d@
+CCCC_Member@Window@getSize@@()@
+CCCC_MemExt@Window@getSize@@()@include\sliding_puzzle\window.h@61@definition@F??T?@LOC:3 COM:0 MVG:1@?@d@
+CCCC_Member@Window@mapPixelToCoords@@(const Vector2i &,const View &)@
+CCCC_MemExt@Window@mapPixelToCoords@@(const Vector2i &,const View &)@include\sliding_puzzle\window.h@65@definition@T??T?@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@Window@setEventProcessor@@(EventHandler *)@
+CCCC_MemExt@Window@setEventProcessor@@(EventHandler *)@include\sliding_puzzle\window.h@53@definition@F??T?@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Window@setFullscreen@@(bool)@
+CCCC_MemExt@Window@setFullscreen@@(bool)@include\sliding_puzzle\window.h@26@definition@F??T?@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Window@setRatio@@(double)@
+CCCC_MemExt@Window@setRatio@@(double)@include\sliding_puzzle\window.h@30@definition@F??T?@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Window@setRenderable@@(Renderable *)@
+CCCC_MemExt@Window@setRenderable@@(Renderable *)@include\sliding_puzzle\window.h@57@definition@F??T?@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Window@setTitle@@(const String &)@
+CCCC_MemExt@Window@setTitle@@(const String &)@include\sliding_puzzle\window.h@22@definition@F??T?@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Window@toggleFullscreen@@()@
+CCCC_MemExt@Window@toggleFullscreen@@()@include\sliding_puzzle\window.h@48@definition@F??T?@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@SlidingPuzzle@@(...)@
+CCCC_MemExt@anonymous@SlidingPuzzle@@(...)@include\sliding_puzzle\sliding_puzzle.h@120@definition@F????@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@animate@@()@
+CCCC_MemExt@anonymous@animate@@()@include\sliding_puzzle\component\solvable_game.h@82@definition@F????@LOC:12 COM:0 MVG:2@?@d@
+CCCC_Member@anonymous@applyMove@@(Move)@
+CCCC_MemExt@anonymous@applyMove@@(Move)@include\sliding_puzzle\state.h@84@definition@F????@LOC:34 COM:0 MVG:15@?@d@
+CCCC_Member@anonymous@clear@@()@
+CCCC_MemExt@anonymous@clear@@()@include\sliding_puzzle\component\matrix.h@67@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@anonymous@create@@(int)@
+CCCC_MemExt@anonymous@create@@(int)@include\sliding_puzzle\state.h@52@definition@F???2@LOC:7 COM:0 MVG:0@2@d@
+CCCC_Member@anonymous@creator@@()@
+CCCC_MemExt@anonymous@creator@@()@include\sliding_puzzle\sliding_puzzle.h@116@definition@F????@LOC:3 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@depthFirstSearch@@(const Node &,int,const State &,Time)@
+CCCC_MemExt@anonymous@depthFirstSearch@@(const Node &,int,const State &,Time)@include\sliding_puzzle\solver\idastar.h@50@definition@F????@LOC:22 COM:0 MVG:9@?@d@
+CCCC_Member@anonymous@extract_ptrs@@(...)@
+CCCC_MemExt@anonymous@extract_ptrs@@(...)@include\sliding_puzzle\sliding_puzzle.h@189@definition@FT???@LOC:7 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@findMove@@(int)@
+CCCC_MemExt@anonymous@findMove@@(int)@include\sliding_puzzle\state.h@119@definition@T????@LOC:13 COM:0 MVG:9@?@d@
+CCCC_Member@anonymous@first@@(...)@
+CCCC_MemExt@anonymous@first@@(...)@include\sliding_puzzle\pair.h@13@definition@F????@LOC:9 COM:0 MVG:2@?@d@
+CCCC_Member@anonymous@getActiveElement@@()@
+CCCC_MemExt@anonymous@getActiveElement@@()@include\sliding_puzzle\state.h@61@definition@T???2@LOC:1 COM:0 MVG:1@2@d@
+CCCC_Member@anonymous@getChildren@@(const Node &)@
+CCCC_MemExt@anonymous@getChildren@@(const Node &)@include\sliding_puzzle\solver\idastar.h@75@definition@F????@LOC:15 COM:0 MVG:3@?@d@
+CCCC_Member@anonymous@getDistance@@(int,int)@
+CCCC_MemExt@anonymous@getDistance@@(int,int)@include\sliding_puzzle\state.h@165@definition@T????@LOC:7 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@getDistanceTo@@(const State &)@
+CCCC_MemExt@anonymous@getDistanceTo@@(const State &)@include\sliding_puzzle\state.h@133@definition@T????@LOC:14 COM:0 MVG:3@?@d@
+CCCC_Member@anonymous@getElements@@()@
+CCCC_MemExt@anonymous@getElements@@()@include\sliding_puzzle\state.h@62@definition@T????@LOC:1 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@getMinDistanceTo@@(const State &)@
+CCCC_MemExt@anonymous@getMinDistanceTo@@(const State &)@include\sliding_puzzle\state.h@148@definition@T????@LOC:16 COM:0 MVG:5@?@d@
+CCCC_Member@anonymous@getPossibleMoves@@()@
+CCCC_MemExt@anonymous@getPossibleMoves@@()@include\sliding_puzzle\state.h@64@definition@T????@LOC:19 COM:0 MVG:5@?@d@
+CCCC_Member@anonymous@getSize@@()@
+CCCC_MemExt@anonymous@getSize@@()@include\sliding_puzzle\state.h@60@definition@T???2@LOC:1 COM:0 MVG:1@2@d@
+CCCC_Member@anonymous@handleExit@@()@
+CCCC_MemExt@anonymous@handleExit@@()@include\sliding_puzzle\sliding_puzzle.h@172@definition@F????@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@handleFullscreen@@()@
+CCCC_MemExt@anonymous@handleFullscreen@@()@include\sliding_puzzle\sliding_puzzle.h@176@definition@F????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@inverse@@(Move)@
+CCCC_MemExt@anonymous@inverse@@(Move)@include\sliding_puzzle\move.h@22@definition@F???2@LOC:3 COM:0 MVG:1@2@d@
+CCCC_Member@anonymous@load@@()@
+CCCC_MemExt@anonymous@load@@()@include\sliding_puzzle\component\image.h@28@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@anonymous@main@@()@
+CCCC_MemExt@anonymous@main@@()@src\main.cc@3@definition@F????@LOC:29 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@move@@(Move)@
+CCCC_MemExt@anonymous@move@@(Move)@include\sliding_puzzle\component\solvable_game.h@49@definition@F????@LOC:10 COM:0 MVG:4@?@d@
+CCCC_Member@anonymous@operator =@@(...)@
+CCCC_MemExt@anonymous@operator =@@(...)@include\sliding_puzzle\state.h@33@definition@F???2@LOC:10 COM:0 MVG:2@2@d@
+CCCC_Member@anonymous@operator =@@(const State &)@
+CCCC_MemExt@anonymous@operator =@@(const State &)@include\sliding_puzzle\state.h@27@definition@F???2@LOC:5 COM:0 MVG:1@2@d@
+CCCC_Member@anonymous@operator ==@@(const State &)@
+CCCC_MemExt@anonymous@operator ==@@(const State &)@include\sliding_puzzle\state.h@46@definition@T???2@LOC:5 COM:0 MVG:2@2@d@
+CCCC_Member@anonymous@pair_extract_ptr@@(const pair &)@
+CCCC_MemExt@anonymous@pair_extract_ptr@@(const pair &)@include\sliding_puzzle\sliding_puzzle.h@183@definition@FT???@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@params@@(...)@
+CCCC_MemExt@anonymous@params@@(...)@include\sliding_puzzle\unused.h@8@definition@F????@LOC:1 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@play@@(const vector &)@
+CCCC_MemExt@anonymous@play@@(const vector &)@include\sliding_puzzle\component\solvable_game.h@74@definition@F????@LOC:7 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@random@@()@
+CCCC_MemExt@anonymous@random@@()@include\sliding_puzzle\move.h@26@definition@F????@LOC:16 COM:0 MVG:7@?@d@
+CCCC_Member@anonymous@reset@@()@
+CCCC_MemExt@anonymous@reset@@()@include\sliding_puzzle\solver\playback.h@36@definition@F????@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@resolve@@(const State &,int)@
+CCCC_MemExt@anonymous@resolve@@(const State &,int)@include\sliding_puzzle\solver\idastar.h@30@definition@F????@LOC:18 COM:0 MVG:4@?@d@
+CCCC_MemExt@anonymous@resolve@@(const State &,int)@include\sliding_puzzle\solver\playback.h@26@definition@F????@LOC:8 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@run@@()@
+CCCC_MemExt@anonymous@run@@()@include\sliding_puzzle\sliding_puzzle.h@125@definition@F????@LOC:16 COM:27 MVG:0@?@d@
+CCCC_Member@anonymous@second@@(...)@
+CCCC_MemExt@anonymous@second@@(...)@include\sliding_puzzle\pair.h@24@definition@F????@LOC:9 COM:0 MVG:2@?@d@
+CCCC_Member@anonymous@solve@@()@
+CCCC_MemExt@anonymous@solve@@()@include\sliding_puzzle\component\solvable_game.h@60@definition@F????@LOC:13 COM:0 MVG:3@?@d@
+CCCC_Member@anonymous@swapActiveWith@@(...)@
+CCCC_MemExt@anonymous@swapActiveWith@@(...)@include\sliding_puzzle\state.h@174@definition@F????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@undo@@(const vector &)@
+CCCC_MemExt@anonymous@undo@@(const vector &)@include\sliding_puzzle\move.h@43@definition@F????@LOC:6 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@~State@@()@
+CCCC_MemExt@anonymous@~State@@()@include\sliding_puzzle\state.h@44@definition@F???2@LOC:1 COM:0 MVG:0@2@d@
+CCCC_UseRel@CoordinateConverter@App@
+CCCC_UseExt@CoordinateConverter@App@include\sliding_puzzle\app.h@16@inheritance@????0@*@0@I@
+CCCC_UseRel@EventHandler@App@
+CCCC_UseExt@EventHandler@App@include\sliding_puzzle\app.h@15@inheritance@?????@*@?@I@
+CCCC_UseRel@Renderable@App@
+CCCC_UseExt@Renderable@App@include\sliding_puzzle\app.h@15@inheritance@?????@*@?@I@
+CCCC_UseRel@Event@Component@
+CCCC_UseExt@Event@Component@include\sliding_puzzle\component.h@14@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@RenderWindow@Component@
+CCCC_UseExt@RenderWindow@Component@include\sliding_puzzle\component.h@21@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@Renderable@Component@
+CCCC_UseExt@Renderable@Component@include\sliding_puzzle\component.h@9@inheritance@?????@*@?@I@
+CCCC_UseRel@Vector2u@Component@
+CCCC_UseExt@Vector2u@Component@include\sliding_puzzle\component.h@18@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@bool@Component@
+CCCC_UseExt@bool@Component@include\sliding_puzzle\component.h@12@pass by value@F???0@*@0@P@
+CCCC_UseExt@bool@Component@include\sliding_puzzle\component.h@25@pass by value@F??T?@*@?@P@
+CCCC_UseExt@bool@Component@include\sliding_puzzle\component.h@28@has by value@F??T1@LOC:0 COM:0 MVG:0@1@H@
+CCCC_UseRel@Vector2i@CoordinateConverter@
+CCCC_UseExt@Vector2i@CoordinateConverter@include\sliding_puzzle\coordinate_converter.h@10@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@View@CoordinateConverter@
+CCCC_UseExt@View@CoordinateConverter@include\sliding_puzzle\coordinate_converter.h@11@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@Config@Creator@
+CCCC_UseExt@Config@Creator@include\sliding_puzzle\sliding_puzzle.h@113@has by value@F???1@LOC:0 COM:0 MVG:0@1@H@
+CCCC_UseRel@String@Creator@
+CCCC_UseExt@String@Creator@include\sliding_puzzle\sliding_puzzle.h@54@pass by value@F????@*@?@P@
+CCCC_UseExt@String@Creator@include\sliding_puzzle\sliding_puzzle.h@90@pass by reference@F????@*@?@p@
+CCCC_UseRel@bool@Creator@
+CCCC_UseExt@bool@Creator@include\sliding_puzzle\sliding_puzzle.h@70@pass by value@F????@*@?@P@
+CCCC_UseRel@unique_ptr@Creator@
+CCCC_UseExt@unique_ptr@Creator@include\sliding_puzzle\sliding_puzzle.h@94@pass by value@F????@*@?@P@
+CCCC_UseExt@unique_ptr@Creator@include\sliding_puzzle\sliding_puzzle.h@99@pass by value@F????@*@?@P@
+CCCC_UseExt@unique_ptr@Creator@include\sliding_puzzle\sliding_puzzle.h@104@pass by value@F????@*@?@P@
+CCCC_UseRel@Event@EventHandler@
+CCCC_UseExt@Event@EventHandler@include\sliding_puzzle\window.h@12@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@Component@ExitListener@
+CCCC_UseExt@Component@ExitListener@include\sliding_puzzle\component\exit_listener.h@9@inheritance@????0@*@0@I@
+CCCC_UseRel@ExitHandler@ExitListener@
+CCCC_UseExt@ExitHandler@ExitListener@include\sliding_puzzle\component\exit_listener.h@16@pass by reference@F??T2@*@2@p@
+CCCC_UseRel@Component@FullscreenListener@
+CCCC_UseExt@Component@FullscreenListener@include\sliding_puzzle\component\fullscreen_listener.h@9@inheritance@????0@*@0@I@
+CCCC_UseRel@FullscreenHandler@FullscreenListener@
+CCCC_UseExt@FullscreenHandler@FullscreenListener@include\sliding_puzzle\component\fullscreen_listener.h@16@pass by reference@F??T2@*@2@p@
+CCCC_UseRel@CoordinateConverter@Game@
+CCCC_UseExt@CoordinateConverter@Game@include\sliding_puzzle\component\game.h@17@pass by reference@F????@*@?@p@
+CCCC_UseRel@Matrix@Game@
+CCCC_UseExt@Matrix@Game@include\sliding_puzzle\component\game.h@13@inheritance@????0@*@0@I@
+CCCC_UseRel@vector@Game@
+CCCC_UseExt@vector@Game@include\sliding_puzzle\component\game.h@15@pass by reference@F????@*@?@p@
+CCCC_UseRel@Solver@IDAStar@
+CCCC_UseExt@Solver@IDAStar@include\sliding_puzzle\solver\idastar.h@14@inheritance@????0@*@0@I@
+CCCC_UseRel@Component@Image@
+CCCC_UseExt@Component@Image@include\sliding_puzzle\component\image.h@12@inheritance@????0@*@0@I@
+CCCC_UseRel@vector@Image@
+CCCC_UseExt@vector@Image@include\sliding_puzzle\component\image.h@16@pass by reference@F????@*@?@p@
+CCCC_UseRel@exception@LoadException@
+CCCC_UseExt@exception@LoadException@include\sliding_puzzle\component\image.h@14@inheritance@?????@*@?@I@
+CCCC_UseRel@SquareImage@Matrix@
+CCCC_UseExt@SquareImage@Matrix@include\sliding_puzzle\component\matrix.h@11@inheritance@????0@*@0@I@
+CCCC_UseRel@vector@Matrix@
+CCCC_UseExt@vector@Matrix@include\sliding_puzzle\component\matrix.h@48@pass by reference@F????@*@?@p@
+CCCC_UseRel@Randomizer@MinDistance@
+CCCC_UseExt@Randomizer@MinDistance@include\sliding_puzzle\randomizer\min_distance.h@12@inheritance@????0@*@0@I@
+CCCC_UseRel@Solver@Playback@
+CCCC_UseExt@Solver@Playback@include\sliding_puzzle\solver\playback.h@14@inheritance@????0@*@0@I@
+CCCC_UseRel@State@Randomizer@
+CCCC_UseExt@State@Randomizer@include\sliding_puzzle\randomizer.h@12@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@RenderWindow@Renderable@
+CCCC_UseExt@RenderWindow@Renderable@include\sliding_puzzle\window.h@17@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@Game@ShuffleableGame@
+CCCC_UseExt@Game@ShuffleableGame@include\sliding_puzzle\component\shuffleable_game.h@13@inheritance@????0@*@0@I@
+CCCC_UseRel@event@ShuffleableGame@
+CCCC_UseExt@event@ShuffleableGame@include\sliding_puzzle\component\solvable_game.h@46@pass by value@F????@*@?@P@
+CCCC_UseRel@App@SlidingPuzzle@
+CCCC_UseExt@App@SlidingPuzzle@include\sliding_puzzle\sliding_puzzle.h@33@inheritance@????0@*@0@I@
+CCCC_UseRel@ExitHandler@SlidingPuzzle@
+CCCC_UseExt@ExitHandler@SlidingPuzzle@include\sliding_puzzle\sliding_puzzle.h@33@inheritance@?????@*@?@I@
+CCCC_UseRel@FullscreenHandler@SlidingPuzzle@
+CCCC_UseExt@FullscreenHandler@SlidingPuzzle@include\sliding_puzzle\sliding_puzzle.h@34@inheritance@?????@*@?@I@
+CCCC_UseRel@Tile@Slot@
+CCCC_UseExt@Tile@Slot@include\sliding_puzzle\component\matrix.h@32@pass by reference@F????@*@?@p@
+CCCC_UseExt@Tile@Slot@include\sliding_puzzle\component\matrix.h@39@pass by reference@F????@*@?@p@
+CCCC_UseExt@Tile@Slot@include\sliding_puzzle\component\matrix.h@45@has by reference@T????@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@Vector2f@Slot@
+CCCC_UseExt@Vector2f@Slot@include\sliding_puzzle\component\matrix.h@32@pass by reference@F????@*@?@p@
+CCCC_UseExt@Vector2f@Slot@include\sliding_puzzle\component\matrix.h@36@pass by reference@F????@*@?@p@
+CCCC_UseExt@Vector2f@Slot@include\sliding_puzzle\component\matrix.h@44@has by value@T????@LOC:0 COM:0 MVG:0@?@H@
+CCCC_UseRel@ShuffleableGame@SolvableGame@
+CCCC_UseExt@ShuffleableGame@SolvableGame@include\sliding_puzzle\component\solvable_game.h@15@inheritance@????0@*@0@I@
+CCCC_UseRel@Move@Solver@
+CCCC_UseExt@Move@Solver@include\sliding_puzzle\solver.h@14@pass by value@F??T0@*@0@P@
+CCCC_UseRel@State@Solver@
+CCCC_UseExt@State@Solver@include\sliding_puzzle\solver.h@13@pass by reference@F??T0@*@0@p@
+CCCC_UseExt@State@Solver@include\sliding_puzzle\solver.h@15@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@Image@SquareImage@
+CCCC_UseExt@Image@SquareImage@include\sliding_puzzle\component\square_image.h@11@inheritance@????0@*@0@I@
+CCCC_UseRel@vector@SquareImage@
+CCCC_UseExt@vector@SquareImage@include\sliding_puzzle\component\square_image.h@13@pass by reference@F????@*@?@p@
+CCCC_UseRel@Sprite@Tile@
+CCCC_UseExt@Sprite@Tile@include\sliding_puzzle\component\matrix.h@13@inheritance@F????@*@?@I@
+CCCC_UseRel@Texture@Tile@
+CCCC_UseExt@Texture@Tile@include\sliding_puzzle\component\matrix.h@16@pass by reference@F????@*@?@p@
+CCCC_UseRel@Vector2f@Tile@
+CCCC_UseExt@Vector2f@Tile@include\sliding_puzzle\component\matrix.h@15@pass by reference@F????@*@?@p@
+CCCC_UseRel@bool@Tile@
+CCCC_UseExt@bool@Tile@include\sliding_puzzle\component\matrix.h@23@pass by value@F????@*@?@P@
+CCCC_UseExt@bool@Tile@include\sliding_puzzle\component\matrix.h@26@has by value@F???1@LOC:0 COM:0 MVG:0@1@H@
+CCCC_UseRel@EventHandler@Window@
+CCCC_UseExt@EventHandler@Window@include\sliding_puzzle\window.h@53@pass by reference@F??T?@*@?@p@
+CCCC_UseExt@EventHandler@Window@include\sliding_puzzle\window.h@104@has by reference@FT?T?@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@RenderWindow@Window@
+CCCC_UseExt@RenderWindow@Window@include\sliding_puzzle\window.h@103@has by value@FT?T?@LOC:0 COM:0 MVG:0@?@H@
+CCCC_UseRel@Renderable@Window@
+CCCC_UseExt@Renderable@Window@include\sliding_puzzle\window.h@57@pass by reference@F??T?@*@?@p@
+CCCC_UseExt@Renderable@Window@include\sliding_puzzle\window.h@105@has by reference@FT?T?@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@String@Window@
+CCCC_UseExt@String@Window@include\sliding_puzzle\window.h@22@pass by reference@F??T?@*@?@p@
+CCCC_UseExt@String@Window@include\sliding_puzzle\window.h@100@has by value@FT?T?@LOC:0 COM:0 MVG:0@?@H@
+CCCC_UseRel@Uint32@Window@
+CCCC_UseExt@Uint32@Window@include\sliding_puzzle\window.h@97@has by value@FT?T?@LOC:0 COM:0 MVG:0@?@H@
+CCCC_UseExt@Uint32@Window@include\sliding_puzzle\window.h@98@has by value@FT?T?@LOC:0 COM:0 MVG:0@?@H@
+CCCC_UseRel@Vector2i@Window@
+CCCC_UseExt@Vector2i@Window@include\sliding_puzzle\window.h@65@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@View@Window@
+CCCC_UseExt@View@Window@include\sliding_puzzle\window.h@66@pass by reference@F??T?@*@?@p@
+CCCC_UseRel@bool@Window@
+CCCC_UseExt@bool@Window@include\sliding_puzzle\window.h@26@pass by value@F??T?@*@?@P@
+CCCC_UseExt@bool@Window@include\sliding_puzzle\window.h@101@has by value@FT?T?@LOC:0 COM:0 MVG:0@?@H@
+CCCC_RejExt@include\sliding_puzzle\sliding_puzzle.h@198@std :: vector @FT???@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\sliding_puzzle.h@199@std :: vector @FT???@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\solver.h@1@<file scope items>@F??T2@LOC:3 COM:1 MVG:0@2@r@
+CCCC_RejExt@include\sliding_puzzle\solver\playback.h@23@m_track . push_back @F???0@LOC:0 COM:0 MVG:0@0@r@
+CCCC_RejExt@include\sliding_puzzle\solver\playback.h@43@std :: vector @F????@LOC:20 COM:1 MVG:6@?@r@
+CCCC_RejExt@include\sliding_puzzle\solver\playback.h@66@std :: vector @F????@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\unused.h@1@<file scope items>@F????@LOC:6 COM:2 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\window.h@1@<file scope items>@FT?T2@LOC:3 COM:1 MVG:0@2@r@
+CCCC_RejExt@include\sliding_puzzle\coordinate_converter.h@1@<file scope items>@F??T2@LOC:3 COM:1 MVG:0@2@r@
+CCCC_RejExt@src\main.cc@1@<file scope items>@F????@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\component.h@1@<file scope items>@F??T?@LOC:3 COM:1 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\component\game.h@35@sf :: Keyboard @F???0@LOC:2 COM:0 MVG:0@0@r@
+CCCC_RejExt@include\sliding_puzzle\component\solvable_game.h@37@event . type @F???0@LOC:9 COM:0 MVG:4@0@r@
+CCCC_RejExt@include\sliding_puzzle\component\square_image.h@24@size . y @F????@LOC:5 COM:0 MVG:1@?@r@
+CCCC_RejExt@include\sliding_puzzle\component\square_image.h@30@rect . width @F????@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\component\square_image.h@31@rect . height @F????@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\component\square_image.h@32@top = 0 @F????@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\component\square_image.h@33@rect . left @F????@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\component\matrix.h@60@texture_rect = getTextureRect @F???0@LOC:1 COM:0 MVG:0@0@r@
+CCCC_RejExt@include\sliding_puzzle\component\matrix.h@61@m_tile_size = texture_rect @F???0@LOC:2 COM:0 MVG:0@0@r@
+CCCC_RejExt@include\sliding_puzzle\component\matrix.h@63@margin_size = m_tile_margin @F???0@LOC:1 COM:0 MVG:0@0@r@
+CCCC_RejExt@include\sliding_puzzle\component\matrix.h@66@m_slots . clear @F???0@LOC:1 COM:0 MVG:0@0@r@
+CCCC_RejExt@include\sliding_puzzle\move.h@1@<file scope items>@F????@LOC:5 COM:2 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\pair.h@1@<file scope items>@F????@LOC:7 COM:2 MVG:0@?@r@
+CCCC_RejExt@include\sliding_puzzle\randomizer.h@1@<file scope items>@F??T2@LOC:3 COM:1 MVG:0@2@r@

@@ -1,0 +1,24 @@
+Done processing ./include/sliding_puzzle/app.h
+Done processing ./include/sliding_puzzle/component/exit_listener.h
+Done processing ./include/sliding_puzzle/component/fullscreen_listener.h
+Done processing ./include/sliding_puzzle/component/game.h
+Done processing ./include/sliding_puzzle/component/image.h
+Done processing ./include/sliding_puzzle/component/matrix.h
+Done processing ./include/sliding_puzzle/component/shuffleable_game.h
+Done processing ./include/sliding_puzzle/component/solvable_game.h
+Done processing ./include/sliding_puzzle/component/square_image.h
+Done processing ./include/sliding_puzzle/component.h
+Done processing ./include/sliding_puzzle/coordinate_converter.h
+Done processing ./include/sliding_puzzle/move.h
+Done processing ./include/sliding_puzzle/pair.h
+Done processing ./include/sliding_puzzle/randomizer/min_distance.h
+Done processing ./include/sliding_puzzle/randomizer.h
+Done processing ./include/sliding_puzzle/sliding_puzzle.h
+Done processing ./include/sliding_puzzle/solver/idastar.h
+Done processing ./include/sliding_puzzle/solver/playback.h
+Done processing ./include/sliding_puzzle/solver.h
+Done processing ./include/sliding_puzzle/state.h
+Done processing ./include/sliding_puzzle/unused.h
+Done processing ./include/sliding_puzzle/window.h
+Done processing ./src/main.cc
+Total errors found: 0
