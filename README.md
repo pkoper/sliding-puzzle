@@ -14,7 +14,7 @@
 ![](https://raw.githubusercontent.com/pkoper/sliding-puzzle/master/doc/images/screenshot.png)
 
 ## Running
-Simply run `SlidingPuzzle.exe` from a directory containing `data` directory.
+Simply run `SlidingPuzzle.exe` from a directory containing `data` resource directory.
 `SlidingPuzzle.exe` was compiled under Windows 7 using MinGW toolchain from Code::Blocks.
 
 ## Compiling
