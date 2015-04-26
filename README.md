@@ -1,6 +1,6 @@
-## Sliding Puzzle Game (SFML/C++11)
+## Sliding Puzzle Game
 
-[Sliding Puzzle](http://en.wikipedia.org/wiki/Sliding_puzzle) desktop game implemented in C++ using [SFML](http://www.sfml-dev.org/).
+[Sliding Puzzle](http://en.wikipedia.org/wiki/Sliding_puzzle) desktop game implemented in [C++11](http://www.stroustrup.com/C++11FAQ.html) using [SFML](http://www.sfml-dev.org/).
 
 ### Features
  1. Sliding tiles using mouse or <kbd>&larr;</kbd><kbd>&uarr;</kbd><kbd>&darr;</kbd><kbd>&rarr;</kbd>.
@@ -16,6 +16,12 @@
 ## Compiling
 Download and unpack [SFML 2.2](http://www.sfml-dev.org/) library. Project files for [Code::Blocks](http://www.codeblocks.org/) and [JetBrains CLion](https://www.jetbrains.com/clion/) are included.
 
+### JetBrains CLion (CMake)
+Update the `SFML_ROOT` path in `CMakeLists.txt` file, eg:
+```
+set(SFML_ROOT "/Libraries/SFML-2.2")
+```
+
 ### Code::Blocks
 Use included project files or see [SFML and Code::Blocks (MinGW)](http://www.sfml-dev.org/tutorials/2.0/start-cb.php) tutorial.
 
@@ -29,9 +35,3 @@ In the link step add a "-mwindows" switch to the command line to remove DOS comm
 
 ![](https://raw.githubusercontent.com/pkoper/sliding-puzzle/master/doc/images/codeblocks-targets.png)
 
-### JetBrains CLion
-Update the `SFML_ROOT` path in `CMakeLists.txt` file, eg:
-
-```
-set(SFML_ROOT "/Libraries/SFML-2.2")
-```
